@@ -9,5 +9,7 @@ public class TC002 {
         //writinf smoke test..
 
         //create a report
+
+       // screenshot failure
     }
 }
