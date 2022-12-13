@@ -7,5 +7,7 @@ public class TC002 {
         //test case 2
 
         //writinf smoke test..
+
+        //create a report
     }
 }
